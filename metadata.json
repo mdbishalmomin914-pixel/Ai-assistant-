@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of AI Personal Assistant",
+  "description": "A versatile AI personal assistant powered by the Gemini API. It can help you with a wide range of tasks, from answering questions to providing suggestions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
